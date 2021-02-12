@@ -1,0 +1,66 @@
+[PROJECT]
+Target=ESTRUCTURAS_CONTROL.hex
+Processor_Text=PIC16F887
+CCSVersion=5.091
+Compiler=PCM
+[Target Data]
+FileList=ESTRUCTURAS_CONTROL.c
+[ESTRUCTURAS_CONTROL.c]
+Type=4
+[mru-list]
+1=ESTRUCTURAS_CONTROL.c
+
+[defines]
+buildcount=31
+
+[Opened Files]
+1=ESTRUCTURAS_CONTROL.c
+t1=35
+2=..\ENTORNO_SENTENCIAS\ENTORNO_SENTENCIAS.c
+t2=45
+Count=2
+3=..\CLASE_08-02\CLASE_08-02.c
+t3=1
+
+[ProjectLog]
+Days=1
+D1=11-02-2021
+D1_L=28
+D1_L1=[37274]Stopped Editing.
+D1_L2=[37424]Started Editing.
+D1_L3=[37856]Stopped Editing.
+TotalEdit=88
+TotalDebug=0
+D1_E=88
+D1_D=0
+D1_L4=[39509]Project Closed.
+D1_L5=[48987]Project Opened.
+D1_L6=[53755]Project Closed.
+D1_L7=[57504]Project Opened.
+D1_L8=[58610]Started Editing.
+D1_L9=[58923]Stopped Editing.
+D1_L10=[59567]Started Editing.
+D1_L11=[60381]Stopped Editing.
+D1_L12=[60687]Started Editing.
+D1_L13=[60988]Stopped Editing.
+D1_L14=[61037]Started Editing.
+D1_L15=[61999]Stopped Editing.
+D1_L16=[62162]Started Editing.
+D1_L17=[63510]Stopped Editing.
+D1_L18=[63790]Started Editing.
+D1_L19=[64315]Stopped Editing.
+D1_L20=[66021]Started Editing.
+D1_L21=[66919]Stopped Editing.
+D1_L22=[67889]Started Editing.
+D1_L23=[68204]Stopped Editing.
+D1_L24=[68265]Started Editing.
+D1_L25=[68839]Stopped Editing.
+D1_L26=[69425]Started Editing.
+D1_L27=[69795]Stopped Editing.
+D1_L28=[70868]Project Closed.
+
+[fileformats]
+forcecoff=0
+[Units]
+Count=1
+1=ESTRUCTURAS_CONTROL (main)
