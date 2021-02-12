@@ -1,0 +1,26 @@
+#include <16f887.h> //libreria del microcontrolador
+#fuses XT, NOPROTECT, NOWDT, MCLR  //aqui declaramos los fusibles; para ir a la fusibles vamos a la pestaña View>Config Bits>seleccionamos el pic que usamos.
+#use delay(internal=4000000) //aqui indicamos el tipo de reloj y la frecuencia
+
+int contador=0;
+float suma=0;
+int datos[5];
+
+void main (){
+//distintas formas de delcarar un puerto como entrada o salida
+set_tris_b(0b00000000); 
+set_tris_a(0xFF);
+set_tris_c(0b01010000);
+
+
+output_low(PIN,B0);
+
+
+
+
+}
+
+void motor(){
+
+
+}
